@@ -1,2 +1,2 @@
 # OOP-Projects
-Projects using OOP
+Coffee Machine Project using OOP
